@@ -1,6 +1,6 @@
 ## Hello, world ✨
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED4245&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11806A&height=120&section=header"/>
 
 ## My name is Isabella, I'm 23 years old. I come from Brazil.
 
