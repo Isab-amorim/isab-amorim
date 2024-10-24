@@ -4,7 +4,8 @@
 
 ## My name is Isabella, I'm 23 years old. I come from Brazil.
 
-### I'm biomedical, working in hospitals to contribute with health. I'm also a Data Scientist's student.
+### I'm biomedical 🧬, and now I'm working in hospitals to contribute with people's health 🏥
+### I'm also a Data Scientist's student, walking to build a new career 💻📊
 ## Be Welcome!
 
  ### Main skills: 
